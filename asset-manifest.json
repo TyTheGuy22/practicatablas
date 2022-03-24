@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/practicatablas/static/css/main.073c9b0a.css",
+    "main.js": "/practicatablas/static/js/main.372592e0.js",
+    "index.html": "/practicatablas/index.html",
+    "main.073c9b0a.css.map": "/practicatablas/static/css/main.073c9b0a.css.map",
+    "main.372592e0.js.map": "/practicatablas/static/js/main.372592e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.372592e0.js"
+  ]
+}
